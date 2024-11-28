@@ -1,0 +1,33 @@
+testes:
+  - para testar apenas um servidor, mova os outros da lista para esta sessão de teste.
+  - o loop do script "main.ps1" só considera os servidores que estiverem na lista abaixo "servers".
+
+servers:
+  - asazure://aspaaseastus2.asazure.windows.net/lab
+  - asazure://aspaaseastus2.asazure.windows.net/lab2
+  - asazure://brazilsouth.asazure.windows.net/bitelesalesanalysis
+  - asazure://brazilsouth.asazure.windows.net/devbi
+  - asazure://westus.asazure.windows.net/matinal3
+  - asazure://westus.asazure.windows.net/saleslabnonprodgov
+  - asazure://westus.asazure.windows.net/saleslabprodrevenue
+  - asazure://westus.asazure.windows.net/saleslabprodfrontline
+  - asazure://westus.asazure.windows.net/saleslabprodmarketplace
+  - asazure://westus.asazure.windows.net/saleslabprodsmallformats
+  - asazure://westus.asazure.windows.net/rdigital2
+  - powerbi://api.powerbi.com/v1.0/myorg/[Sales.Lab] E-commerce
+  - powerbi://api.powerbi.com/v1.0/myorg/[Sales.Lab] Frontline Off
+  - powerbi://api.powerbi.com/v1.0/myorg/[Sales Lab] S&PI
+  - powerbi://api.powerbi.com/v1.0/myorg/[Sales.Lab] Sellout Off
+  - powerbi://api.powerbi.com/v1.0/myorg/[Sales.Lab] Trade Off
+  - powerbi://api.powerbi.com/v1.0/myorg/[Sales.Lab] Trade Off SSBI
+  - powerbi://api.powerbi.com/v1.0/myorg/AS Data & Insights PBI
+  - powerbi://api.powerbi.com/v1.0/myorg/Sales.Lab - Categorias [PROD]
+  - powerbi://api.powerbi.com/v1.0/myorg/Sales.Lab - Marketplace
+  - powerbi://api.powerbi.com/v1.0/myorg/Sales.Lab - RM SSBI
+  - powerbi://api.powerbi.com/v1.0/myorg/Sales.Lab - Self Service Prod
+  - powerbi://api.powerbi.com/v1.0/myorg/Sales.Lab AC
+  - powerbi://api.powerbi.com/v1.0/myorg/Sales.Lab IM
+  - powerbi://api.powerbi.com/v1.0/myorg/Sales.Lab PPM
+  - powerbi://api.powerbi.com/v1.0/myorg/Sales.Lab RM
+  - powerbi://api.powerbi.com/v1.0/myorg/Self Service BI - RTM Innovation
+  - powerbi://api.powerbi.com/v1.0/myorg/User Centered
